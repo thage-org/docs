@@ -22,7 +22,7 @@ contenuto = {
   "id" => int
   "title" => string
   "type" => "lesson"
-  "content" => string
+  "text" => string
 }
 ```
 
